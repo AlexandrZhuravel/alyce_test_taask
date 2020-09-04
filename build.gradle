@@ -41,3 +41,15 @@ dependencies {
 task tests(type: Test) {
     useJUnitPlatform {}
 }
+
+task positive_tests(type: Test) {
+    useJUnitPlatform {
+        includeTags 'positive_tests'
+    }
+}
+
+task negative_tests(type: Test) {
+    useJUnitPlatform {
+        includeTags 'negative_tests'
+    }
+}
