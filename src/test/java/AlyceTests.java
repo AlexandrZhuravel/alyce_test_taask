@@ -5,7 +5,7 @@ import io.qameta.allure.Feature;
 import io.qameta.allure.Owner;
 import io.qameta.allure.Story;
 import io.qameta.allure.junit4.DisplayName;
-import io.qameta.allure.junit4.Tag;
+import org.junit.jupiter.api.Tag;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeAll;
