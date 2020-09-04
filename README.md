@@ -1,11 +1,3 @@
-Status of tests performed:
-[![Build status](https://ci.appveyor.com/api/projects/status/mt1bfnm4l69r0xde?svg=true)](https://ci.appveyor.com/project/AlexandrZhuravel/alyce-test-task)
-
-
-
-
-
-
 
 ### Test task of the company "Alice" 
 #### Automation of testing a service that distributes apples between users
