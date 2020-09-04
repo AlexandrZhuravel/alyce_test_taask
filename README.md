@@ -1,6 +1,5 @@
 Status of tests performed:
-[![Build status](https://ci.appveyor.com/api/projects/status/1hoaj1pqi7wyit1r?svg=true)](https://ci.appveyor.com/project/AleksandrZhuravel/aqa-diploma)
-
+[![Build status](https://ci.appveyor.com/api/projects/status/mt1bfnm4l69r0xde?svg=true)](https://ci.appveyor.com/project/AlexandrZhuravel/alyce-test-task)
 
 
 
@@ -53,6 +52,6 @@ Positive and negative functional testing
    * Allure Report - a flexible lightweight multi-language test report tool.
      
 ##### Comments:
-1) The checklist is in the file "Check_list_Alyce";
-2) The excel Bug Report is in the file "Bug_report_Alyce";
-3) The issue Bug Report is in the Issue#1.
+1) The checklist is in the file ["Check_list_Alyce"](https://github.com/AlexandrZhuravel/alyce_test_task/blob/master/documents/Check_list%20Alyce.xlsx);
+2) The excel Bug Report is in the file ["Bug_report_Alyce"](https://github.com/AlexandrZhuravel/alyce_test_task/blob/master/documents/Bug_report%20Alyce%20.xlsx);
+3) The issue Bug Report is in the [Issue#1](https://github.com/AlexandrZhuravel/alyce_test_task/issues/1).
